@@ -4,12 +4,8 @@
   <head>
     <title>Anh Hoang</title>
     <link rel="stylesheet" href="mystyle.css">
-    <style>
-        body {background-color:green}
-        p {color:blue;}
-    </style>
-  </head>
+ </head>
   <body>
-    Nội dung trang web
-  </body>
-</html>
+   <h1> Anh Hoang Web Design <h1>
+    <ul>
+     
